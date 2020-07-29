@@ -16,7 +16,7 @@ Check the content of input-template.tpl
     
 Apply consul template. Execute the below command
 
-  consul-template -template "input-template.tpl:output.txt"
+    consul-template -template "input-template.tpl:output.txt"
 
 This will hold the screen.
 Create a duplicate terminal and put some value of the variable mentioned in inouttemplate.tpl 
