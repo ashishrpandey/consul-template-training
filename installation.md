@@ -5,7 +5,7 @@
 
 ## Extract and move it 
 
-      tar -zxvf consul-template_0.25.1_linux_amd64.tar
+      tar -zxvf consul-template_0.25.1_linux_amd64.tgz
       mv consul-template /usr/bin/
 
 ## Verify 
