@@ -4,8 +4,8 @@
 - The consul-template is already installed 
 - input-template.tpl file is present with some variable 
 
-    git clone https://github.com/ashishrpandey/consul-template-training
-    cd consul-template-training
+        git clone https://github.com/ashishrpandey/consul-template-training
+        cd consul-template-training
 
 ## Check the content of input-template.tpl
   
